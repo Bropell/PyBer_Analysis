@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Project Overview
-The purpose of this analysis is to use the power of Python, Pandas and Matplotlib to create a summary DataFrame of the ride-sharing data by city type. A multiline graph was generated to show the weekly fares for each city type do that better decisions can be made at PyBer.
+The purpose of this analysis is to use the power of Python, Pandas and Matplotlib to create a summary DataFrame of the ride-sharing data by city type. A multiline graph was generated to show the weekly fares for each city type so that better decisions can be made at PyBer.
 ## Results
 https://github.com/Bropell/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb
 
